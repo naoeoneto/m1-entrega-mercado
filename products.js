@@ -6,6 +6,7 @@ const products = [
     image: undefined,
     imageDescription: "",
   },
+
   {
     title: "Banana",
     price: 5.69,
@@ -13,6 +14,7 @@ const products = [
     image: "./img/products/product_2.svg",
     imageDescription: "",
   },
+
   {
     title: "Mamão",
     price: 4.99,
@@ -20,6 +22,7 @@ const products = [
     image: "./img/products/product_3.svg",
     imageDescription: "",
   },
+
   {
     title: "Maçã",
     price: 9.2,
@@ -27,6 +30,7 @@ const products = [
     image: "./img/products/product_4.svg",
     imageDescription: "",
   },
+
   {
     title: "Refrigerante",
     price: 8.99,
@@ -34,6 +38,7 @@ const products = [
     image: undefined,
     imageDescription: "",
   },
+
   {
     title: "Vinho",
     price: 8.99,
@@ -41,6 +46,7 @@ const products = [
     image: "./img/products/product_6.svg",
     imageDescription: "",
   },
+
   {
     title: "Água Tônica",
     price: 8.99,
@@ -48,6 +54,7 @@ const products = [
     image: undefined,
     imageDescription: "",
   },
+  
   {
     title: "Água de coco",
     price: 8.99,
